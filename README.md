@@ -1,9 +1,9 @@
-# famchat
+# 🌀 FamChat Messenger
 
-## project status
+## Project Status
 
-inception; initializing everything
+Inception; initializing everything
 
-## famchat for desktop
+## [🌀 FamChat Desktop][https://github.com/famchat/famdesktop] Messenger App
 
-https://github.com/famchat/famdesktop
+To be implemented.
