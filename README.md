@@ -4,6 +4,8 @@
 
 Inception; initializing everything
 
-## [🌀 FamChat Desktop][https://github.com/famchat/famdesktop] Messenger App
+## 🌀 FamChat Desktop Messenger App
 
-To be implemented.
+To be implemented. https://github.com/famchat/famdesktop
+
+
